@@ -1,9 +1,10 @@
-# Mobile, Inc.
+# Mobile Inc (Unity)
+IF3111 Pengembangan Aplikasi pada Platform Khusus
 
 ## Anggota kelompok Chlordane
-- Reinhard Benjamin Linardi (13515011)
-- Erick Wijaya (13515057)
-- Roland Hartanto (13515107)
+- [Reinhard Benjamin Linardi (13515011)](https://github.com/reinhardlinardi)
+- [Erick Wijaya (13515057)](https://github.com/wijayaerick)
+- [Roland Hartanto (13515107)](https://github.com/rolandhartanto)
 
 ## Deskripsi subsistem Unity
 
@@ -26,11 +27,8 @@ Subsistem Unity merupakan game simulasi pengelolaan sumber daya, dimana pemain b
 - Subsistem yang dibuat di-deploy dalam aplikasi desktop
 
 ## Cara instalasi aplikasi
-
-1. Buka link berikut :
-https://drive.google.com/open?id=0B7EJUV7pyE6oMTFGeFFFY1pjbXc
-2. Download ZIP pada link tersebut
-3. Extract dan run aplikasinya
+1. Download dan extract ZIP dari [MobileInc-Unity](https://github.com/tugas-itb-erick/MobileInc-Unity/releases). 
+2. Run aplikasi (.exe). 
 
 ## Panduan pemakaian aplikasi
 
@@ -42,10 +40,3 @@ https://drive.google.com/open?id=0B7EJUV7pyE6oMTFGeFFFY1pjbXc
 <br />
 <br />Homepage : http://mobileinc.herokuapp.com
 <br />API server : https://github.com/reinhardlinardi/mobile-inc
-
-
-
-
-
-
-
